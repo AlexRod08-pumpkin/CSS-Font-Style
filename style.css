@@ -1,4 +1,12 @@
 .class1{
-     font-style:   Arial, Helvetica, italic;
-  font-weight: bold;
+font-style: Sofia, italic;
+
+}
+
+.class2{ 
+     font-style: oblique;
+}
+
+.class3{
+     font-style: initial;
 }
