@@ -1,12 +1,20 @@
 .class1{
 font-style: Sofia, italic;
+     color: Brown;
 
 }
 
 .class2{ 
      font-style: oblique;
+     color: blue;
 }
 
 .class3{
      font-style: initial;
+     color: lightgreen;
+}
+
+.class4{
+     font-style: inherit;
+     color: yellow;
 }
